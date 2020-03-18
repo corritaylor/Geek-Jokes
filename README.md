@@ -3,6 +3,6 @@
 
 1. Set up single page.
 2. Get API data.
-3. Place API dta in app
+3. Place API data in app
 4. Finish styling with bootstrap
 
